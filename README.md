@@ -1,3 +1,6 @@
-# Roadmaps Progress
+# roadmaps
 
-This repo is made to help me track my progress through roadmaps
+## Categories
+- [roadmaps.sh](./roadmaps.sh/README.md)
+
+## Documents
