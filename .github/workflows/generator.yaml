@@ -28,7 +28,7 @@ jobs:
       - name: 📦 Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 20
+          fetch-depth: 100
 
       - name: ⌛ Get Time
         id: time
@@ -56,7 +56,7 @@ jobs:
       - name: 📓 Create Changelog
         run: |
           echo "# Changelog" > ./CHANGELOG.md
-          git log --pretty=format:"* %ad - %s" --date=short --invert-grep --grep="auto:" --grep="Merge" >> ./CHANGELOG.md
+          git log --pretty=format:"* %ad - %s" --date=short --invert-grep --grep="auto:" --grep="Merge" --max-count=100 >> ./CHANGELOG.md
 
       - name: 📖 Commit Changelog
         continue-on-error: true
