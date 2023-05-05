@@ -323,7 +323,7 @@
             <tspan>Go Modules</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="102-go-building-clis">
+    <g class="clickable-group done" data-group-id="102-go-building-clis">
         <rect x="70.35" y="750.35" width="219.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="131" y="777" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
@@ -346,56 +346,56 @@
             <tspan>Context</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-building-clis:cobra">
+    <g class="clickable-group done" data-group-id="100-go-building-clis:cobra">
         <rect x="70.35" y="809.35" width="70.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="84" y="835" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Cobra</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="101-go-building-clis:urfave-cli">
+    <g class="clickable-group done" data-group-id="101-go-building-clis:urfave-cli">
         <rect x="150.35" y="809.35" width="97.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="165" y="835" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>urfave/cli</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="104-go-web-frameworks">
+    <g class="clickable-group done" data-group-id="104-go-web-frameworks">
         <rect x="344.35" y="987.35" width="272.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="418" y="1014" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Web Frameworks</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-web-frameworks:beego">
+    <g class="clickable-group done" data-group-id="100-go-web-frameworks:beego">
         <rect x="324.35" y="897.35" width="76.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="338" y="923" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Beego</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="101-go-web-frameworks:gin">
+    <g class="clickable-group done" data-group-id="101-go-web-frameworks:gin">
         <rect x="409.35" y="897.35" width="51.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="422" y="923" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Gin</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="102-go-web-frameworks:revel">
+    <g class="clickable-group done" data-group-id="102-go-web-frameworks:revel">
         <rect x="470.35" y="897.35" width="73.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="486" y="923" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Revel</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="103-go-web-frameworks:echo">
+    <g class="clickable-group done" data-group-id="103-go-web-frameworks:echo">
         <rect x="553.35" y="897.35" width="73.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="571" y="923" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Echo</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="106-go-web-frameworks:buffalo">
+    <g class="clickable-group done" data-group-id="106-go-web-frameworks:buffalo">
         <rect x="688.35" y="984.35" width="202.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="765" y="1010" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
@@ -409,21 +409,21 @@
             <tspan>Gorilla</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="103-go-orms">
+    <g class="clickable-group done" data-group-id="103-go-orms">
         <rect x="183.35" y="875.35" width="107.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="214" y="902" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>ORMs</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-orms:gorm">
+    <g class="clickable-group done" data-group-id="100-go-orms:gorm">
         <rect x="70.35" y="876.35" width="86.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="89" y="902" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>GORM</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="105-go-logging">
+    <g class="clickable-group done" data-group-id="105-go-logging">
         <rect x="344.35" y="1034.35" width="272.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="443" y="1061" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
@@ -437,154 +437,154 @@
             <tspan>Zap</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="102-go-logging:apex">
+    <g class="clickable-group done" data-group-id="102-go-logging:apex">
         <rect x="70.35" y="986.35" width="85.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="95" y="1012" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Apex</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="106-go-realtime-communication">
+    <g class="clickable-group done" data-group-id="106-go-realtime-communication">
         <rect x="344.35" y="1081.35" width="272.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="389" y="1108" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Real time communication</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-realtime-communication:melody">
+    <g class="clickable-group done" data-group-id="100-go-realtime-communication:melody">
         <rect x="688.35" y="1063.35" width="202.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="763" y="1089" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Melody</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="101-go-realtime-communication:centrifugo">
+    <g class="clickable-group done" data-group-id="101-go-realtime-communication:centrifugo">
         <rect x="688.35" y="1111.35" width="202.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="751" y="1137" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Centrifugo</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="107-go-api-clients">
+    <g class="clickable-group done" data-group-id="107-go-api-clients">
         <rect x="343.35" y="1129.35" width="272.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="440" y="1156.5" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>API Clients</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-api-clients:rest">
+    <g class="clickable-group done" data-group-id="100-go-api-clients:rest">
         <rect x="221.35" y="1110.35" width="87.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="244" y="1136" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>REST</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-api-clients:rest:heimdall">
+    <g class="clickable-group done" data-group-id="100-go-api-clients:rest:heimdall">
         <rect x="70.35" y="1090.35" width="110.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="94" y="1116" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Heimdall</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="101-go-api-clients:rest:grequests">
+    <g class="clickable-group done" data-group-id="101-go-api-clients:rest:grequests">
         <rect x="70.35" y="1137.35" width="110.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="85" y="1163" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>GRequests</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="101-go-api-clients:graphql">
+    <g class="clickable-group done" data-group-id="101-go-api-clients:graphql">
         <rect x="221.35" y="1159.35" width="87.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="231" y="1185.5" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>GraphQL</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-api-clients:graphql:graphql-go">
+    <g class="clickable-group done" data-group-id="100-go-api-clients:graphql:graphql-go">
         <rect x="70.35" y="1187.35" width="110.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="86" y="1213" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>graphql-go</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="101-go-api-clients:graphql:gqlgen">
+    <g class="clickable-group done" data-group-id="101-go-api-clients:graphql:gqlgen">
         <rect x="70.35" y="1233.35" width="110.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="101" y="1259" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>gqlgen</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="108-go-testing-your-apps">
+    <g class="clickable-group done" data-group-id="108-go-testing-your-apps">
         <rect x="686.35" y="1230.35" width="272.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="759" y="1257" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Testing your Apps</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="109-go-microservices">
+    <g class="clickable-group done" data-group-id="109-go-microservices">
         <rect x="307.35" y="1226.35" width="310.3" height="40.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="379" y="1253" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Tools for Microservices</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-microservices:watermill">
+    <g class="clickable-group done" data-group-id="100-go-microservices:watermill">
         <rect x="70.35" y="1316.35" width="176.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="125" y="1342" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Watermill</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="101-go-microservices:rpcx">
+    <g class="clickable-group done" data-group-id="101-go-microservices:rpcx">
         <rect x="261.35" y="1316.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="318" y="1340.5" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>rpcx</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="102-go-microservices:go-kit">
+    <g class="clickable-group done" data-group-id="102-go-microservices:go-kit">
         <rect x="261.35" y="1361.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="312" y="1387" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Go-kit</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="103-go-microservices:micro">
+    <g class="clickable-group done" data-group-id="103-go-microservices:micro">
         <rect x="261.35" y="1407.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="313" y="1433" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Micro</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="104-go-microservices:go-zero">
+    <g class="clickable-group done" data-group-id="104-go-microservices:go-zero">
         <rect x="261.35" y="1453.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="306" y="1477.5" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>go-zero</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="105-go-microservices:protocol-buffers">
+    <g class="clickable-group done" data-group-id="105-go-microservices:protocol-buffers">
         <rect x="425.35" y="1316.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="440" y="1342.5" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>Protocol Buffers</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="106-go-microservices:grpc-go">
+    <g class="clickable-group done" data-group-id="106-go-microservices:grpc-go">
         <rect x="425.35" y="1362.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="463" y="1388.5" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>gRPC-Go</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="107-go-microservices:grpc-gateway">
+    <g class="clickable-group done" data-group-id="107-go-microservices:grpc-gateway">
         <rect x="425.35" y="1408.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="444" y="1434.5" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
             <tspan>gRPC-gateway</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="108-go-microservices:twirp">
+    <g class="clickable-group done" data-group-id="108-go-microservices:twirp">
         <rect x="425.35" y="1454.35" width="145.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="480" y="1480" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
@@ -602,7 +602,7 @@
             <tspan>roadmap.sh/backend</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="105-go-web-frameworks:gofiber">
+    <g class="clickable-group done" data-group-id="105-go-web-frameworks:gofiber">
         <rect x="794.35" y="937.35" width="99.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="818" y="963" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
@@ -656,7 +656,7 @@
             <tspan>uintptr</tspan>
         </text>
     </g>
-    <g class="clickable-group" data-group-id="100-go-logging:zerolog">
+    <g class="clickable-group done" data-group-id="100-go-logging:zerolog">
         <rect x="165.35" y="986.35" width="89.3" height="39.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
             stroke="rgb(0,0,0)" stroke-width="2.7"></rect><text x="182" y="1012" fill="rgb(0,0,0)" font-style="normal"
             font-weight="normal" font-size="16px">
