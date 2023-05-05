@@ -15,6 +15,10 @@ concurrency:
   group: commit-work
   cancel-in-progress: false
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   generation:
     runs-on: ubuntu-latest
