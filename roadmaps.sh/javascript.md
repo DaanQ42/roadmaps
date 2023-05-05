@@ -1,4 +1,4 @@
-# Typescript
+# JavaScript Roadmap
 
 <link href="style/main.css" rel="stylesheet">
 
