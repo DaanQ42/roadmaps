@@ -51,6 +51,18 @@ jobs:
           git add .
           git commit -m "auto: 📓 Generated Readme ${{ steps.time.outputs.time }}"
 
+      - name: 📓 Create Changelog
+        run: |
+          echo "# Changelog" > ./CHANGELOG.md
+          git log --pretty=format:"* %ad - %s" --date=short --invert-grep --grep="auto:" --grep="Merge" >> ./CHANGELOG.md
+
+      - name: 📖 Commit Changelog
+        continue-on-error: true
+        run: |
+          cd $GITHUB_WORKSPACE
+          git add .
+          git commit -m "auto: 📖 Generated Changelog ${{ steps.time.outputs.time }}"
+
       - name: 🚚 Push
         continue-on-error: true
         run: git push
