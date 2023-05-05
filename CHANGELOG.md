@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-05 - Increasing amount of commits messages
 * 2023-05-05 - Fetching last 20 commits
 * 2023-05-05 - Adding git attributes
 * 2023-05-05 - Generting changelog
@@ -12,3 +13,9 @@
 * 2023-05-05 - Updated typescript roadmap
 * 2023-05-05 - Adding typescript
 * 2023-05-05 - Finished go developer roadmap
+* 2023-05-05 - Added permissions
+* 2023-05-05 - Fixing
+* 2023-05-05 - Added workflow
+* 2023-05-05 - Added initial go-developer roadmap
+* 2023-05-05 - Imported style for roadmaps
+* 2023-05-05 - Initial setup
