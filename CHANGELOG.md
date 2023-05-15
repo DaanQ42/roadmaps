@@ -1,4 +1,6 @@
 # Changelog
+* 2023-05-15 - Updated software design
+* 2023-05-15 - Adding software design architecture
 * 2023-05-05 - Updated devops
 * 2023-05-05 - Increasing amount of commits messages
 * 2023-05-05 - Fetching last 20 commits
