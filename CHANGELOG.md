@@ -1,4 +1,9 @@
 # Changelog
+* 2023-05-15 - Added backend developer roadmap
+* 2023-05-15 - Added cyber security roadmap
+* 2023-05-15 - Added full stack developer
+* 2023-05-15 - Initial system design tick off
+* 2023-05-15 - Added initial docker roadmap tick off
 * 2023-05-15 - Added system design
 * 2023-05-15 - Added docker roadmap
 * 2023-05-15 - Updated software design
