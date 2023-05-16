@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-16 - Added computer science
 * 2023-05-16 - Removed badge
 * 2023-05-16 - Added badge to changelog
 * 2023-05-16 - Allowing script
