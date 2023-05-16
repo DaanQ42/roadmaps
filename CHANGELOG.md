@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-16 - Added software architect
 * 2023-05-16 - Ticked off more on system-design and architecture
 * 2023-05-16 - Ticked off more on system-design
 * 2023-05-16 - Tickets off more on docker
