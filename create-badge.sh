@@ -76,8 +76,8 @@ svg_template="<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" height=\"2
   <rect rx=\"3\" x=\"${percentage}\" width=\"${rest}\" height=\"20\" fill=\"#555\"/>
   <rect rx=\"3\" width=\"100\" height=\"20\" fill=\"url(#a)\"/>
   <g fill=\"#fff\" text-anchor=\"middle\" font-family=\"DejaVu Sans,Verdana,Geneva,sans-serif\" font-size=\"11\">
-    <text x=\"50\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">${percentage}% coverage</text>
-    <text x=\"50\" y=\"14\">${percentage}% coverage</text>
+    <text x=\"50\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">${total_clickable_group_done}/${total_clickable_group}</text>
+    <text x=\"50\" y=\"14\">${total_clickable_group_done}/${total_clickable_group}</text>
   </g>
 </svg>"
 
