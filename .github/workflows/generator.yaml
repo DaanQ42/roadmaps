@@ -65,6 +65,17 @@ jobs:
           git add .
           git commit -m "auto: 📖 Generated Changelog ${{ steps.time.outputs.time }}"
 
+      - name: 🖌️ Draw badge
+        run: |
+          ./create-badge.sh
+
+      - name: 📖 Commit Badge
+        continue-on-error: true
+        run: |
+          cd $GITHUB_WORKSPACE
+          git add .
+          git commit -m "auto: 🖌️ Generated Badge ${{ steps.time.outputs.time }}"
+
       - name: 🚚 Push
         continue-on-error: true
         run: git push
