@@ -14,6 +14,7 @@
 - [javascript](javascript.md)
 - [kubernetes](kubernetes.md)
 - [nodejs](nodejs.md)
+- [software-architect](software-architect.md)
 - [software-design-architecture](software-design-architecture.md)
 - [system-design](system-design.md)
 - [typescript](typescript.md)
