@@ -1,4 +1,6 @@
 # Changelog
+* 2023-05-16 - Tickets off more on docker
+* 2023-05-16 - Tickets off more on system design
 * 2023-05-16 - Changed contents of badge
 * 2023-05-16 - Added computer science
 * 2023-05-16 - Removed badge
