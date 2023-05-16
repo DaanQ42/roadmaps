@@ -5,6 +5,7 @@
 
 ## Documents
 - [backend-developer](backend-developer.md)
+- [computer-science](computer-science.md)
 - [cyber-security](cyber-security.md)
 - [devops](devops.md)
 - [docker](docker.md)
