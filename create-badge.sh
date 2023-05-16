@@ -84,3 +84,8 @@ svg_template="<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" height=\"2
 # Generate the badge SVG
 echo "$svg_template" > "$output_file"
 echo "Badge generated and saved to $output_file"
+
+echo "{name}={value}" >> "$GITHUB_OUTPUT"
+echo "precentage=$percentage" >> "$GITHUB_OUTPUT"
+echo "done=$total_clickable_group_done" >> "$GITHUB_OUTPUT"
+echo "total=$total_clickable_group" >> "$GITHUB_OUTPUT"
