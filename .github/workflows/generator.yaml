@@ -67,6 +67,7 @@ jobs:
 
       - name: 🖌️ Draw badge
         run: |
+          chmod +x ./create-badge.sh
           ./create-badge.sh
 
       - name: 📖 Commit Badge
