@@ -1,5 +1,6 @@
 {
   "configs": [
-    "date, done, line"
+    "date, done, line",
+    "date, total, line"
   ]
 }
