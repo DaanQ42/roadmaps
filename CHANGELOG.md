@@ -1,4 +1,6 @@
 # Changelog
+![badge](https://raw.githubusercontent.com/DaanQ42/roadmaps/9c48c7fb59a449cca2d7e7b2defba2a4c777294d/badge.svg?token=AY7LK2CD2TFBEMRNZU3ZXQLEMOF620)
+* 2023-05-16 - Added badge to changelog
 * 2023-05-16 - Allowing script
 * 2023-05-16 - Adding creation of badge
 * 2023-05-16 - Ticketted off couple more on kubernetes
