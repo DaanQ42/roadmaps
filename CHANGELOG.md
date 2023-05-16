@@ -1,4 +1,6 @@
 # Changelog
+* 2023-05-16 - Allowing script
+* 2023-05-16 - Adding creation of badge
 * 2023-05-16 - Ticketted off couple more on kubernetes
 * 2023-05-15 - Added backend developer roadmap
 * 2023-05-15 - Added cyber security roadmap
