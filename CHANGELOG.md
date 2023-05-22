@@ -1,5 +1,6 @@
 # Changelog
 * 2023-05-22 - Adding color
+* 2023-05-22 - Adding color
 * 2023-05-22 - Correcting
 * 2023-05-22 - Submitting changes
 * 2023-05-16 - feat: updated .github/blocks/file/githubnext__blocks-examples__chart/progress.csv.json programatically
