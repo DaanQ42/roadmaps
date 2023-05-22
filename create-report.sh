@@ -31,7 +31,7 @@ for dir in "${directories[@]}"; do
 
             # Append results to the status.md file
             file_encoded=$(echo "$file" | sed 's/ /%20/g; s/-/_/g')
-            echo "- ![$file](https://img.shields.io/badge/$file_encoded-$clickable_group_count%2F$clickable_group_done_count-green)" >> status.md
+            echo "- ![$file](https://img.shields.io/badge/$file_encoded-$clickable_group_done_count%2F$clickable_group_count-green)" >> status.md
         fi
     done
 
