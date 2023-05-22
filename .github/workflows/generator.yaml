@@ -65,18 +65,18 @@ jobs:
           git add .
           git commit -m "auto: 📖 Generated Changelog ${{ steps.time.outputs.time }}"
 
-      - name: 🖌️ Draw badge
+      - name: 🖌️ Create report
         id: badge
         run: |
-          chmod +x ./create-badge.sh
-          ./create-badge.sh
+          chmod +x ./create-report.sh
+          ./create-report.sh
 
-      - name: 📖 Commit Badge
+      - name: 📖 Commit report
         continue-on-error: true
         run: |
           cd $GITHUB_WORKSPACE
           git add .
-          git commit -m "auto: 🖌️ Generated Badge ${{ steps.time.outputs.time }}"
+          git commit -m "auto: 🖌️ Generated report ${{ steps.time.outputs.time }}"
 
       - name: 📈 Writing csv
         run: |
