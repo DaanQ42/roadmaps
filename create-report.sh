@@ -6,6 +6,20 @@ directories=(
     # Add more directories if needed
 )
 
+# Function convert percentage to color
+function percentage_to_color() {
+    percentage=$1
+    if [[ $percentage -eq 100 ]]; then
+        echo "green"
+    elif [[ $percentage -gt 50 ]]; then
+        echo "orange"
+    elif [[ $percentage -gt 25 ]]; then
+        echo "yellow"
+    else
+        echo "red"
+    fi
+}
+
 # Initialize counters
 total_clickable_group=0
 total_clickable_group_done=0
@@ -29,9 +43,14 @@ for dir in "${directories[@]}"; do
             clickable_group_per_file=$((clickable_group_per_file + clickable_group_count))
             clickable_group_done_per_file=$((clickable_group_done_per_file + clickable_group_done_count))
 
+            # Get the percentage of "clickable-group done" occurrences
+            clickable_group_done_percentage=$((clickable_group_done_count * 100 / clickable_group_count))
+            # color
+            clickable_group_done_color=$(percentage_to_color "$clickable_group_done_percentage")
+
             # Append results to the status.md file
             file_encoded=$(echo "$file" | sed 's/ /%20/g; s/-/_/g')
-            echo "- ![$file](https://img.shields.io/badge/$file_encoded-$clickable_group_done_count%2F$clickable_group_count-green)" >> status.md
+            echo "- ![$file](https://img.shields.io/badge/$file_encoded-$clickable_group_done_count%2F$clickable_group_count-$clickable_group_done_color)" >> status.md
         fi
     done
 
