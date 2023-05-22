@@ -9,7 +9,7 @@ directories=(
 # Function convert percentage to color
 function percentage_to_color() {
     percentage=$1
-    if [[ $percentage -eq 100 ]]; then
+    if [[ $percentage -gt 80 ]]; then
         echo "green"
     elif [[ $percentage -gt 50 ]]; then
         echo "orange"
@@ -43,8 +43,14 @@ for dir in "${directories[@]}"; do
             clickable_group_per_file=$((clickable_group_per_file + clickable_group_count))
             clickable_group_done_per_file=$((clickable_group_done_per_file + clickable_group_done_count))
 
+            # Only do this if there are clickable-group occurrences
+            if [[ $clickable_group_count -eq 0 ]]; then
+                continue
+            fi
+
             # Get the percentage of "clickable-group done" occurrences
             clickable_group_done_percentage=$((clickable_group_done_count * 100 / clickable_group_count))
+            echo "$file: $clickable_group_done_percentage%"
             # color
             clickable_group_done_color=$(percentage_to_color "$clickable_group_done_percentage")
 
