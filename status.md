@@ -1,4 +1,5 @@
 # Status
+- ![roadmaps.sh/api-security.md](https://img.shields.io/badge/roadmaps.sh/api_security.md-0%2F106-red)
 - ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-16%2F145-red)
 - ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-47%2F203-red)
 - ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-7%2F309-red)
@@ -9,7 +10,7 @@
 - ![roadmaps.sh/javascript.md](https://img.shields.io/badge/roadmaps.sh/javascript.md-111%2F121-green)
 - ![roadmaps.sh/kubernetes.md](https://img.shields.io/badge/roadmaps.sh/kubernetes.md-30%2F72-yellow)
 - ![roadmaps.sh/nodejs.md](https://img.shields.io/badge/roadmaps.sh/nodejs.md-18%2F121-red)
-- ![roadmaps.sh/software-architect.md](https://img.shields.io/badge/roadmaps.sh/software_architect.md-26%2F111-red)
+- ![roadmaps.sh/software-architect.md](https://img.shields.io/badge/roadmaps.sh/software_architect.md-27%2F111-red)
 - ![roadmaps.sh/software-design-architecture.md](https://img.shields.io/badge/roadmaps.sh/software_design_architecture.md-18%2F99-red)
 - ![roadmaps.sh/system-design.md](https://img.shields.io/badge/roadmaps.sh/system_design.md-16%2F156-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
