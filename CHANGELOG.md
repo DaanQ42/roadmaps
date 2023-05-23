@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-23 - Initial tick off for api security
 * 2023-05-23 - Added api-security roadmap
 * 2023-05-22 - Updated software architect
 * 2023-05-22 - Learned more of x509 certificates
