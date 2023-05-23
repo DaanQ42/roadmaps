@@ -1,4 +1,6 @@
 # Changelog
+* 2023-05-23 - Added api-security roadmap
+* 2023-05-22 - Updated software architect
 * 2023-05-22 - Learned more of x509 certificates
 * 2023-05-22 - Adding color
 * 2023-05-22 - Adding color
