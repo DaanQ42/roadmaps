@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-23 - Ticked off more subjects for nodejs
 * 2023-05-23 - Initial tick off for api security
 * 2023-05-23 - Added api-security roadmap
 * 2023-05-22 - Updated software architect
@@ -53,5 +54,3 @@
 * 2023-05-05 - Fixing
 * 2023-05-05 - Added workflow
 * 2023-05-05 - Added initial go-developer roadmap
-* 2023-05-05 - Imported style for roadmaps
-* 2023-05-05 - Initial setup
