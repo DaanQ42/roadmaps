@@ -104,7 +104,7 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          bodyFile: "changelog.md"
+          bodyFile: ${{github.workspace}}/CHANGELOG.md
           makeLatest: true
           name: Progress 📈
           tag: progress
