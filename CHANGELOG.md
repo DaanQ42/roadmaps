@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-25 - Learned more about k8s dns and scheduling
 * 2023-05-25 - Updated progress report
 * 2023-05-25 - Updated path
 * 2023-05-25 - Update generator.yaml
@@ -46,4 +47,3 @@
 * 2023-05-15 - Added docker roadmap
 * 2023-05-15 - Updated software design
 * 2023-05-15 - Adding software design architecture
-* 2023-05-05 - Updated devops
