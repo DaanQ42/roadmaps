@@ -2,7 +2,7 @@
 - ![roadmaps.sh/api-security.md](https://img.shields.io/badge/roadmaps.sh/api_security.md-42%2F106-yellow)
 - ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-16%2F145-red)
 - ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-47%2F203-red)
-- ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-7%2F309-red)
+- ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-18%2F309-red)
 - ![roadmaps.sh/devops.md](https://img.shields.io/badge/roadmaps.sh/devops.md-19%2F176-red)
 - ![roadmaps.sh/docker.md](https://img.shields.io/badge/roadmaps.sh/docker.md-14%2F59-red)
 - ![roadmaps.sh/full-stack-developer.md](https://img.shields.io/badge/roadmaps.sh/full_stack_developer.md-7%2F44-red)
