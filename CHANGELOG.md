@@ -1,4 +1,7 @@
 # Changelog
+* 2023-05-25 - Cleaned total
+* 2023-05-25 - Added badge to pipeline
+* 2023-05-25 - Fixing total score
 * 2023-05-25 - Added whitespace
 * 2023-05-25 - Added total to the status
 * 2023-05-25 - Ticked more docker
@@ -47,5 +50,3 @@
 * 2023-05-05 - Generting changelog
 * 2023-05-05 - Correcting titles
 * 2023-05-05 - Adding devops
-* 2023-05-05 - Updated kubernetes
-* 2023-05-05 - added kuberwelles
