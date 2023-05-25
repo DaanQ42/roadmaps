@@ -99,3 +99,12 @@ jobs:
           echo "![total](https://img.shields.io/badge/total-${{ steps.badge.outputs.total }}%2F${{ steps.badge.outputs.done }}-green)"
           echo "- Done: ${{ steps.badge.outputs.done }}" >> $GITHUB_STEP_SUMMARY
           echo "- Total: ${{ steps.badge.outputs.total }}" >> $GITHUB_STEP_SUMMARY
+
+      - name: ✍️ Writing progress page
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          bodyFile: "changelog.md"
+          makeLatest: true
+          name: Progress 📈
+          tag: progress
