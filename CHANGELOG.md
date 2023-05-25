@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-25 - Update generator.yaml
 * 2023-05-25 - Cleaned total
 * 2023-05-25 - Added badge to pipeline
 * 2023-05-25 - Fixing total score
@@ -47,6 +48,3 @@
 * 2023-05-05 - Increasing amount of commits messages
 * 2023-05-05 - Fetching last 20 commits
 * 2023-05-05 - Adding git attributes
-* 2023-05-05 - Generting changelog
-* 2023-05-05 - Correcting titles
-* 2023-05-05 - Adding devops
