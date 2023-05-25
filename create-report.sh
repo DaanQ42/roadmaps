@@ -69,6 +69,12 @@ for dir in "${directories[@]}"; do
     echo "Clickable Group Done: $clickable_group_done_per_file/$total_clickable_group_done"
 done
 
+
+echo "**Total**  " >> status.md
+total_percentage=$((clickable_group_done_count * 100 / clickable_group_count))
+total_color=$(percentage_to_color "$clickable_group_done_percentage")
+echo "$total_clickable_group_done/$total_clickable_group ![$file](https://img.shields.io/badge/total-$total_clickable_group_done%2F$total_clickable_group-$clickable_group_done_color) ($total_percentage%)" >> status.md
+
 echo "Total Clickable Group: $total_clickable_group/$total_clickable_group"
 echo "Total Clickable Group Done: $total_clickable_group_done/$total_clickable_group_done"
 
