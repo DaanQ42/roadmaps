@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-25 - Ticked more docker
 * 2023-05-23 - Ticking off more on cyber security
 * 2023-05-23 - Cleaned line
 * 2023-05-23 - Ticked off more subjects for nodejs
@@ -50,5 +51,3 @@
 * 2023-05-05 - Updated javascript
 * 2023-05-05 - Adding javascript
 * 2023-05-05 - Updated typescript roadmap
-* 2023-05-05 - Adding typescript
-* 2023-05-05 - Finished go developer roadmap
