@@ -14,5 +14,6 @@
 - ![roadmaps.sh/software-design-architecture.md](https://img.shields.io/badge/roadmaps.sh/software_design_architecture.md-18%2F99-red)
 - ![roadmaps.sh/system-design.md](https://img.shields.io/badge/roadmaps.sh/system_design.md-16%2F156-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
+
 **Total**  
 554/1891 ![roadmaps.sh/typescript.md](https://img.shields.io/badge/total-554%2F1891-green) (94%)

@@ -1,4 +1,5 @@
 # Changelog
+* 2023-05-25 - Added whitespace
 * 2023-05-25 - Added total to the status
 * 2023-05-25 - Ticked more docker
 * 2023-05-23 - Ticking off more on cyber security
@@ -48,4 +49,3 @@
 * 2023-05-05 - Adding devops
 * 2023-05-05 - Updated kubernetes
 * 2023-05-05 - added kuberwelles
-* 2023-05-05 - Added nodejs
