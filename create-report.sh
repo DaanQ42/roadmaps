@@ -69,7 +69,7 @@ for dir in "${directories[@]}"; do
     echo "Clickable Group Done: $clickable_group_done_per_file/$total_clickable_group_done"
 done
 
-
+echo "" >> status.md
 echo "**Total**  " >> status.md
 total_percentage=$((clickable_group_done_count * 100 / clickable_group_count))
 total_color=$(percentage_to_color "$clickable_group_done_percentage")
