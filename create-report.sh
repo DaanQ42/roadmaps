@@ -73,7 +73,7 @@ echo "" >> status.md
 echo "**Total**  " >> status.md
 total_percentage=$((total_clickable_group_done * 100 / total_clickable_group))
 total_color=$(percentage_to_color "$clickable_group_done_percentage")
-echo "$total_clickable_group_done/$total_clickable_group ![$file](https://img.shields.io/badge/total-$total_clickable_group_done%2F$total_clickable_group-$clickable_group_done_color) ($total_percentage%)" >> status.md
+echo "$total_clickable_group_done/$total_clickable_group ![total](https://img.shields.io/badge/total-$total_clickable_group_done%2F$total_clickable_group-$clickable_group_done_color) ($total_percentage%)" >> status.md
 
 echo "Total Clickable Group: $total_clickable_group/$total_clickable_group"
 echo "Total Clickable Group Done: $total_clickable_group_done/$total_clickable_group_done"
