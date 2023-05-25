@@ -106,5 +106,5 @@ jobs:
           allowUpdates: true
           bodyFile: ${{github.workspace}}/CHANGELOG.md
           makeLatest: true
-          name: Progress 📈
+          name: Progress (${{ steps.badge.outputs.done }}/${{ steps.badge.outputs.total }})📈
           tag: progress
