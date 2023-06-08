@@ -1,4 +1,5 @@
 # Changelog
+* 2023-06-08 - Updated node.js
 * 2023-06-08 - Progressing on roadmaps
 * 2023-06-08 - Adding settings
 * 2023-06-01 - Delete badge.svg
@@ -39,5 +40,3 @@
 * 2023-05-16 - Removed badge
 * 2023-05-16 - Added badge to changelog
 * 2023-05-16 - Allowing script
-* 2023-05-16 - Adding creation of badge
-* 2023-05-16 - Ticketted off couple more on kubernetes
