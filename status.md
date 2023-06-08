@@ -1,6 +1,6 @@
 # Status
 - ![roadmaps.sh/api-security.md](https://img.shields.io/badge/roadmaps.sh/api_security.md-42%2F106-yellow)
-- ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-16%2F145-red)
+- ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-31%2F145-red)
 - ![roadmaps.sh/code-review.md](https://img.shields.io/badge/roadmaps.sh/code_review.md-5%2F8-orange)
 - ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-47%2F203-red)
 - ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-26%2F309-red)
@@ -16,4 +16,4 @@
 - ![roadmaps.sh/system-design.md](https://img.shields.io/badge/roadmaps.sh/system_design.md-16%2F156-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
 
-![total](https://img.shields.io/badge/total-601%2F1901-green) (31%)
+![total](https://img.shields.io/badge/total-616%2F1901-green) (32%)
