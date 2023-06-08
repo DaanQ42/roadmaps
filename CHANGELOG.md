@@ -1,4 +1,6 @@
 # Changelog
+* 2023-06-08 - Progressing on roadmaps
+* 2023-06-08 - Adding settings
 * 2023-06-01 - Delete badge.svg
 * 2023-05-25 - Learned more about k8s dns and scheduling
 * 2023-05-25 - Updated progress report
@@ -39,8 +41,3 @@
 * 2023-05-16 - Allowing script
 * 2023-05-16 - Adding creation of badge
 * 2023-05-16 - Ticketted off couple more on kubernetes
-* 2023-05-15 - Added backend developer roadmap
-* 2023-05-15 - Added cyber security roadmap
-* 2023-05-15 - Added full stack developer
-* 2023-05-15 - Initial system design tick off
-* 2023-05-15 - Added system design
