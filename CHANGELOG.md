@@ -1,4 +1,5 @@
 # Changelog
+* 2023-06-22 - Ticking of http / https
 * 2023-06-08 - Updated to new relevant knowlegde
 * 2023-06-08 - Updated node.js
 * 2023-06-08 - Progressing on roadmaps
@@ -38,5 +39,3 @@
 * 2023-05-16 - Tickets off more on system design
 * 2023-05-16 - Changed contents of badge
 * 2023-05-16 - Added computer science
-* 2023-05-16 - Removed badge
-* 2023-05-16 - Added badge to changelog
