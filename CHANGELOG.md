@@ -1,4 +1,5 @@
 # Changelog
+* 2023-06-27 - Updating kubernetes knowlegde
 * 2023-06-22 - Ticking of http / https
 * 2023-06-08 - Updated to new relevant knowlegde
 * 2023-06-08 - Updated node.js
@@ -38,4 +39,3 @@
 * 2023-05-16 - Tickets off more on docker
 * 2023-05-16 - Tickets off more on system design
 * 2023-05-16 - Changed contents of badge
-* 2023-05-16 - Added computer science
