@@ -1,4 +1,5 @@
 # Changelog
+* 2023-08-02 - Ticking off what I have learned since last time
 * 2023-06-27 - Updating devops roadmap
 * 2023-06-27 - Updating kubernetes knowlegde
 * 2023-06-22 - Ticking of http / https
@@ -37,4 +38,3 @@
 * 2023-05-16 - Added software architect
 * 2023-05-16 - Ticked off more on system-design and architecture
 * 2023-05-16 - Ticked off more on system-design
-* 2023-05-16 - Tickets off more on docker
