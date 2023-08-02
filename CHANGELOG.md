@@ -1,4 +1,5 @@
 # Changelog
+* 2023-08-02 - Ticking more off
 * 2023-08-02 - Ticking off what I have learned since last time
 * 2023-06-27 - Updating devops roadmap
 * 2023-06-27 - Updating kubernetes knowlegde
@@ -35,6 +36,3 @@
 * 2023-05-16 - Fixed formatting
 * 2023-05-16 - Updating workflow
 * 2023-05-16 - Ticked off more on devops
-* 2023-05-16 - Added software architect
-* 2023-05-16 - Ticked off more on system-design and architecture
-* 2023-05-16 - Ticked off more on system-design
