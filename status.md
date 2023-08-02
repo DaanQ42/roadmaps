@@ -1,6 +1,6 @@
 # Status
 - ![roadmaps.sh/api-security.md](https://img.shields.io/badge/roadmaps.sh/api_security.md-42%2F106-yellow)
-- ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-34%2F145-red)
+- ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-41%2F145-yellow)
 - ![roadmaps.sh/code-review.md](https://img.shields.io/badge/roadmaps.sh/code_review.md-5%2F8-orange)
 - ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-51%2F203-red)
 - ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-26%2F309-red)
@@ -9,11 +9,11 @@
 - ![roadmaps.sh/full-stack-developer.md](https://img.shields.io/badge/roadmaps.sh/full_stack_developer.md-7%2F44-red)
 - ![roadmaps.sh/go-developer.md](https://img.shields.io/badge/roadmaps.sh/go_developer.md-67%2F70-green)
 - ![roadmaps.sh/javascript.md](https://img.shields.io/badge/roadmaps.sh/javascript.md-111%2F121-green)
-- ![roadmaps.sh/kubernetes.md](https://img.shields.io/badge/roadmaps.sh/kubernetes.md-47%2F72-orange)
+- ![roadmaps.sh/kubernetes.md](https://img.shields.io/badge/roadmaps.sh/kubernetes.md-57%2F72-orange)
 - ![roadmaps.sh/nodejs.md](https://img.shields.io/badge/roadmaps.sh/nodejs.md-43%2F121-yellow)
 - ![roadmaps.sh/software-architect.md](https://img.shields.io/badge/roadmaps.sh/software_architect.md-30%2F111-yellow)
 - ![roadmaps.sh/software-design-architecture.md](https://img.shields.io/badge/roadmaps.sh/software_design_architecture.md-18%2F99-red)
 - ![roadmaps.sh/system-design.md](https://img.shields.io/badge/roadmaps.sh/system_design.md-16%2F156-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
 
-![total](https://img.shields.io/badge/total-632%2F1863-green) (33%)
+![total](https://img.shields.io/badge/total-649%2F1863-green) (34%)
