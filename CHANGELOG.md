@@ -1,4 +1,5 @@
 # Changelog
+* 2023-08-02 - Ticking of more
 * 2023-08-02 - Ticking more off
 * 2023-08-02 - Ticking off what I have learned since last time
 * 2023-06-27 - Updating devops roadmap
