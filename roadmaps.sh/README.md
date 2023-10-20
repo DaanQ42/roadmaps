@@ -6,7 +6,6 @@
 ## Documents
 - [api-security](api-security.md)
 - [backend-developer](backend-developer.md)
-- [code-review](code-review.md)
 - [computer-science](computer-science.md)
 - [cyber-security](cyber-security.md)
 - [devops](devops.md)
