@@ -1,4 +1,6 @@
 # Changelog
+* 2023-10-20 - Updating kuberWelles
+* 2023-09-13 - Updated the markings
 * 2023-08-02 - Ticking of more
 * 2023-08-02 - Ticking more off
 * 2023-08-02 - Ticking off what I have learned since last time
@@ -35,5 +37,3 @@
 * 2023-05-16 - feat: updated .github/blocks/file/githubnext__blocks-examples__chart/progress.csv.json programatically
 * 2023-05-16 - Update .github/blocks/config.json
 * 2023-05-16 - Fixed formatting
-* 2023-05-16 - Updating workflow
-* 2023-05-16 - Ticked off more on devops
