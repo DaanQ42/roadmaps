@@ -10,7 +10,7 @@
 - ![roadmaps.sh/game-developer.md](https://img.shields.io/badge/roadmaps.sh/game_developer.md-15%2F149-red)
 - ![roadmaps.sh/go-developer.md](https://img.shields.io/badge/roadmaps.sh/go_developer.md-67%2F70-green)
 - ![roadmaps.sh/javascript.md](https://img.shields.io/badge/roadmaps.sh/javascript.md-111%2F121-green)
-- ![roadmaps.sh/kubernetes.md](https://img.shields.io/badge/roadmaps.sh/kubernetes.md-66%2F72-green)
+- ![roadmaps.sh/kubernetes.md](https://img.shields.io/badge/roadmaps.sh/kubernetes.md-67%2F72-green)
 - ![roadmaps.sh/nodejs.md](https://img.shields.io/badge/roadmaps.sh/nodejs.md-47%2F121-yellow)
 - ![roadmaps.sh/rust.md](https://img.shields.io/badge/roadmaps.sh/rust.md-47%2F129-yellow)
 - ![roadmaps.sh/software-architect.md](https://img.shields.io/badge/roadmaps.sh/software_architect.md-31%2F111-yellow)
@@ -20,4 +20,4 @@
 - ![roadmaps.sh/techincal-writer.md](https://img.shields.io/badge/roadmaps.sh/techincal_writer.md-0%2F87-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
 
-![total](https://img.shields.io/badge/total-774%2F2508-green) (30%)
+![total](https://img.shields.io/badge/total-775%2F2508-green) (30%)
