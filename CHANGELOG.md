@@ -1,4 +1,5 @@
 # Changelog
+* 2023-11-27 - Adding more roadmaps
 * 2023-10-20 - Updated devops
 * 2023-10-20 - Updating kuberWelles
 * 2023-09-13 - Updated the markings
@@ -34,5 +35,4 @@
 * 2023-05-22 - Adding color
 * 2023-05-22 - Correcting
 * 2023-05-22 - Submitting changes
-* 2023-05-16 - feat: updated .github/blocks/file/githubnext__blocks-examples__chart/progress.csv.json programatically
 * 2023-05-16 - feat: updated .github/blocks/file/githubnext__blocks-examples__chart/progress.csv.json programatically
