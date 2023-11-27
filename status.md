@@ -4,7 +4,7 @@
 - ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-55%2F203-yellow)
 - ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-33%2F309-red)
 - ![roadmaps.sh/devops.md](https://img.shields.io/badge/roadmaps.sh/devops.md-34%2F143-red)
-- ![roadmaps.sh/docker.md](https://img.shields.io/badge/roadmaps.sh/docker.md-20%2F59-yellow)
+- ![roadmaps.sh/docker.md](https://img.shields.io/badge/roadmaps.sh/docker.md-30%2F59-yellow)
 - ![roadmaps.sh/full-stack-developer.md](https://img.shields.io/badge/roadmaps.sh/full_stack_developer.md-7%2F44-red)
 - ![roadmaps.sh/game-developer-server-side.md](https://img.shields.io/badge/roadmaps.sh/game_developer_server_side.md-18%2F162-red)
 - ![roadmaps.sh/game-developer.md](https://img.shields.io/badge/roadmaps.sh/game_developer.md-15%2F149-red)
@@ -20,4 +20,4 @@
 - ![roadmaps.sh/techincal-writer.md](https://img.shields.io/badge/roadmaps.sh/techincal_writer.md-0%2F87-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
 
-![total](https://img.shields.io/badge/total-775%2F2508-green) (30%)
+![total](https://img.shields.io/badge/total-785%2F2508-green) (31%)
