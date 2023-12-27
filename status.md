@@ -1,13 +1,14 @@
 # Status
 - ![roadmaps.sh/api-security.md](https://img.shields.io/badge/roadmaps.sh/api_security.md-42%2F106-yellow)
 - ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-42%2F145-yellow)
+- ![roadmaps.sh/c++.md](https://img.shields.io/badge/roadmaps.sh/c++.md-0%2F126-red)
 - ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-55%2F203-yellow)
 - ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-33%2F309-red)
 - ![roadmaps.sh/devops.md](https://img.shields.io/badge/roadmaps.sh/devops.md-34%2F143-red)
 - ![roadmaps.sh/docker.md](https://img.shields.io/badge/roadmaps.sh/docker.md-30%2F59-yellow)
 - ![roadmaps.sh/full-stack-developer.md](https://img.shields.io/badge/roadmaps.sh/full_stack_developer.md-7%2F44-red)
-- ![roadmaps.sh/game-developer-server-side.md](https://img.shields.io/badge/roadmaps.sh/game_developer_server_side.md-18%2F162-red)
-- ![roadmaps.sh/game-developer.md](https://img.shields.io/badge/roadmaps.sh/game_developer.md-15%2F149-red)
+- ![roadmaps.sh/game-developer-server-side.md](https://img.shields.io/badge/roadmaps.sh/game_developer_server_side.md-33%2F162-red)
+- ![roadmaps.sh/game-developer.md](https://img.shields.io/badge/roadmaps.sh/game_developer.md-23%2F149-red)
 - ![roadmaps.sh/go-developer.md](https://img.shields.io/badge/roadmaps.sh/go_developer.md-67%2F70-green)
 - ![roadmaps.sh/javascript.md](https://img.shields.io/badge/roadmaps.sh/javascript.md-111%2F121-green)
 - ![roadmaps.sh/kubernetes.md](https://img.shields.io/badge/roadmaps.sh/kubernetes.md-67%2F72-green)
@@ -20,4 +21,4 @@
 - ![roadmaps.sh/techincal-writer.md](https://img.shields.io/badge/roadmaps.sh/techincal_writer.md-0%2F87-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
 
-![total](https://img.shields.io/badge/total-786%2F2508-green) (31%)
+![total](https://img.shields.io/badge/total-809%2F2634-green) (30%)
