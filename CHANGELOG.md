@@ -1,4 +1,5 @@
 # Changelog
+* 2024-01-02 - Updating rust
 * 2023-12-27 - Ticking off some more
 * 2023-12-27 - Updating cpp and game developer
 * 2023-12-27 - Updating rust
