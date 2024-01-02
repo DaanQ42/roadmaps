@@ -1,4 +1,5 @@
 # Changelog
+* 2024-01-02 - Updating docker
 * 2024-01-02 - Updating rust
 * 2023-12-27 - Ticking off some more
 * 2023-12-27 - Updating cpp and game developer
@@ -37,4 +38,3 @@
 * 2023-05-23 - Added api-security roadmap
 * 2023-05-22 - Updated software architect
 * 2023-05-22 - Learned more of x509 certificates
-* 2023-05-22 - Adding color
