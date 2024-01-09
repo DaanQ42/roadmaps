@@ -24,9 +24,9 @@ function percentage_to_color() {
 total_clickable_group=0
 total_clickable_group_done=0
 
-# Create or clear the status.md file
-echo -n "# Status" > status.md
-echo "" >> status.md
+# Create or clear the ".content.md" file
+echo -n "# Status" > ".content.md"
+echo "" >> ".content.md"
 
 # Loop over directories
 for dir in "${directories[@]}"; do
@@ -54,9 +54,9 @@ for dir in "${directories[@]}"; do
             # color
             clickable_group_done_color=$(percentage_to_color "$clickable_group_done_percentage")
 
-            # Append results to the status.md file
+            # Append results to the ".content.md" file
             file_encoded=$(echo "$file" | sed 's/ /%20/g; s/-/_/g')
-            echo "- ![$file](https://img.shields.io/badge/$file_encoded-$clickable_group_done_count%2F$clickable_group_count-$clickable_group_done_color)" >> status.md
+            echo "- ![$file](https://img.shields.io/badge/$file_encoded-$clickable_group_done_count%2F$clickable_group_count-$clickable_group_done_color)" >> ".content.md"
         fi
     done
 
@@ -69,10 +69,10 @@ for dir in "${directories[@]}"; do
     echo "Clickable Group Done: $clickable_group_done_per_file/$total_clickable_group_done"
 done
 
-echo "" >> status.md
+echo "" >> ".content.md"
 total_percentage=$((total_clickable_group_done * 100 / total_clickable_group))
 total_color=$(percentage_to_color "$clickable_group_done_percentage")
-echo "![total](https://img.shields.io/badge/total-$total_clickable_group_done%2F$total_clickable_group-$clickable_group_done_color) ($total_percentage%)" >> status.md
+echo "![total](https://img.shields.io/badge/total-$total_clickable_group_done%2F$total_clickable_group-$clickable_group_done_color) ($total_percentage%)" >> ".content.md"
 
 echo "Total Clickable Group: $total_clickable_group/$total_clickable_group"
 echo "Total Clickable Group Done: $total_clickable_group_done/$total_clickable_group_done"
