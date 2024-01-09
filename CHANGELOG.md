@@ -1,4 +1,6 @@
 # Changelog
+* 2024-01-09 - Updated to .content.md
+* 2024-01-09 - Updated to latest markdown version
 * 2024-01-09 - Updating C++
 * 2024-01-02 - Updating docker
 * 2024-01-02 - Updating rust
@@ -35,6 +37,3 @@
 * 2023-05-23 - Ticking off more on cyber security
 * 2023-05-23 - Cleaned line
 * 2023-05-23 - Ticked off more subjects for nodejs
-* 2023-05-23 - Initial tick off for api security
-* 2023-05-23 - Added api-security roadmap
-* 2023-05-22 - Updated software architect
