@@ -1,4 +1,5 @@
 # Changelog
+* 2024-01-29 - Updating sql page new knowledge learnt
 * 2024-01-09 - Updated to .content.md
 * 2024-01-09 - Updated to latest markdown version
 * 2024-01-09 - Updating C++
@@ -35,5 +36,3 @@
 * 2023-05-25 - Added total to the status
 * 2023-05-25 - Ticked more docker
 * 2023-05-23 - Ticking off more on cyber security
-* 2023-05-23 - Cleaned line
-* 2023-05-23 - Ticked off more subjects for nodejs
