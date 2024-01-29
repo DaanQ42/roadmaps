@@ -1,5 +1,5 @@
 # roadmaps.sh
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6442361ae27257737493b24b?variant=dark)](https://roadmap.sh)
 
 ## Categories
 

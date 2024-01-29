@@ -1,4 +1,5 @@
 # Changelog
+* 2024-01-29 - Adding content
 * 2024-01-29 - Updating devops to what I have learned
 * 2024-01-29 - Ticking off more what I know
 * 2024-01-29 - Updating sql page new knowledge learnt
@@ -35,4 +36,3 @@
 * 2023-05-25 - Added badge to pipeline
 * 2023-05-25 - Fixing total score
 * 2023-05-25 - Added whitespace
-* 2023-05-25 - Added total to the status
