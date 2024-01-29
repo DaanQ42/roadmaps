@@ -1,4 +1,5 @@
 # Changelog
+* 2024-01-29 - Updating devops to what I have learned
 * 2024-01-29 - Ticking off more what I know
 * 2024-01-29 - Updating sql page new knowledge learnt
 * 2024-01-09 - Updated to .content.md
@@ -35,5 +36,3 @@
 * 2023-05-25 - Fixing total score
 * 2023-05-25 - Added whitespace
 * 2023-05-25 - Added total to the status
-* 2023-05-25 - Ticked more docker
-* 2023-05-23 - Ticking off more on cyber security
