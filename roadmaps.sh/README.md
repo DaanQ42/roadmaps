@@ -5,7 +5,6 @@
 
 
 ## Documents
-- [api-security](api-security.md)
 - [backend-developer](backend-developer.md)
 - [c++](c++.md)
 - [computer-science](computer-science.md)
