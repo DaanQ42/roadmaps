@@ -1,4 +1,6 @@
 # Changelog
+* 2024-02-26 - Adding percentage
+* 2024-02-26 - Moving generate markdown to last
 * 2024-02-26 - Updating cs to the lastest status
 * 2024-02-26 - Finishing javascript
 * 2024-02-26 - Updated to latest
@@ -34,6 +36,3 @@
 * 2023-06-22 - Ticking of http / https
 * 2023-06-08 - Updated to new relevant knowlegde
 * 2023-06-08 - Updated node.js
-* 2023-06-08 - Progressing on roadmaps
-* 2023-06-08 - Adding settings
-* 2023-06-01 - Delete badge.svg
