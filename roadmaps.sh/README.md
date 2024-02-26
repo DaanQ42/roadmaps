@@ -9,6 +9,7 @@
 - [c++](c++.md)
 - [computer-science](computer-science.md)
 - [cyber-security](cyber-security.md)
+- [datastructures-and-algorithms](datastructures-and-algorithms.md)
 - [devops](devops.md)
 - [docker](docker.md)
 - [full-stack-developer](full-stack-developer.md)

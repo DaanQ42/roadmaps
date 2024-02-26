@@ -2,7 +2,7 @@
 # Status
 - ![roadmaps.sh/backend-developer.md](https://img.shields.io/badge/roadmaps.sh/backend_developer.md-45%2F138-yellow)
 - ![roadmaps.sh/c++.md](https://img.shields.io/badge/roadmaps.sh/c++.md-9%2F126-red)
-- ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-77%2F203-yellow)
+- ![roadmaps.sh/computer-science.md](https://img.shields.io/badge/roadmaps.sh/computer_science.md-81%2F203-yellow)
 - ![roadmaps.sh/cyber-security.md](https://img.shields.io/badge/roadmaps.sh/cyber_security.md-33%2F309-red)
 - ![roadmaps.sh/devops.md](https://img.shields.io/badge/roadmaps.sh/devops.md-47%2F143-yellow)
 - ![roadmaps.sh/docker.md](https://img.shields.io/badge/roadmaps.sh/docker.md-45%2F59-orange)
@@ -21,7 +21,7 @@
 - ![roadmaps.sh/techincal-writer.md](https://img.shields.io/badge/roadmaps.sh/techincal_writer.md-0%2F87-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
 
-![total](https://img.shields.io/badge/total-981%2F2521-green) (38%)
+![total](https://img.shields.io/badge/total-985%2F2521-green) (39%)
 
 
 ## Categories
