@@ -1,4 +1,5 @@
 # Changelog
+* 2024-02-26 - Updating game-developer server side with new knowlegde
 * 2024-02-26 - Adding percentage
 * 2024-02-26 - Moving generate markdown to last
 * 2024-02-26 - Updating cs to the lastest status

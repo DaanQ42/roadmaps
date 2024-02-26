@@ -8,7 +8,7 @@
 - ![roadmaps.sh/devops.md](https://img.shields.io/badge/roadmaps.sh/devops.md-47%2F143-yellow)
 - ![roadmaps.sh/docker.md](https://img.shields.io/badge/roadmaps.sh/docker.md-51%2F59-green)
 - ![roadmaps.sh/full-stack-developer.md](https://img.shields.io/badge/roadmaps.sh/full_stack_developer.md-23%2F44-orange)
-- ![roadmaps.sh/game-developer-server-side.md](https://img.shields.io/badge/roadmaps.sh/game_developer_server_side.md-33%2F162-red)
+- ![roadmaps.sh/game-developer-server-side.md](https://img.shields.io/badge/roadmaps.sh/game_developer_server_side.md-70%2F162-yellow)
 - ![roadmaps.sh/game-developer.md](https://img.shields.io/badge/roadmaps.sh/game_developer.md-52%2F149-yellow)
 - ![roadmaps.sh/go-developer.md](https://img.shields.io/badge/roadmaps.sh/go_developer.md-67%2F70-green)
 - ![roadmaps.sh/javascript.md](https://img.shields.io/badge/roadmaps.sh/javascript.md-118%2F121-green)
@@ -22,7 +22,7 @@
 - ![roadmaps.sh/techincal-writer.md](https://img.shields.io/badge/roadmaps.sh/techincal_writer.md-0%2F87-red)
 - ![roadmaps.sh/typescript.md](https://img.shields.io/badge/roadmaps.sh/typescript.md-94%2F99-green)
 
-![total](https://img.shields.io/badge/total-1078%2F2623-green) (41%)
+![total](https://img.shields.io/badge/total-1115%2F2623-green) (42%)
 
 
 ## Categories
