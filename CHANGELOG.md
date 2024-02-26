@@ -1,4 +1,6 @@
 # Changelog
+* 2024-02-26 - Finishing javascript
+* 2024-02-26 - Updated to latest
 * 2024-02-26 - Finishing up docker
 * 2024-02-26 - Adding datastructures and algorithms
 * 2024-01-29 - Updating computer science with more I have learned
@@ -34,4 +36,3 @@
 * 2023-06-08 - Progressing on roadmaps
 * 2023-06-08 - Adding settings
 * 2023-06-01 - Delete badge.svg
-* 2023-05-25 - Learned more about k8s dns and scheduling
