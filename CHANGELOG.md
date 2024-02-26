@@ -1,4 +1,5 @@
 # Changelog
+* 2024-01-29 - Updating computer science with more I have learned
 * 2024-01-29 - Removing api security because its a checklist
 * 2024-01-29 - Updatin nodejs
 * 2024-01-29 - Ticking off even more I have learned
@@ -35,4 +36,3 @@
 * 2023-05-25 - Updated progress report
 * 2023-05-25 - Updated path
 * 2023-05-25 - Update generator.yaml
-* 2023-05-25 - Cleaned total
