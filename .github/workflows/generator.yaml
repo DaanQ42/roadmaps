@@ -37,22 +37,6 @@ jobs:
           timeZone: 8
           format: "YYYY-MM-DD"
 
-      # Runs a single command using the runners shell
-      - name: 📓 Create Readmes
-        uses: DaanV2/Markdown-Action-Create-Indexes@v4.0.0
-        with:
-          folder: ${{github.workspace}}
-          filename: README.md
-
-      - name: 📖 Commit changes
-        continue-on-error: true
-        run: |
-          cd $GITHUB_WORKSPACE
-          git config --global user.email "github-action@github.com"
-          git config --global user.name "github-action"
-          git add .
-          git commit -m "auto: 📓 Generated Readme ${{ steps.time.outputs.time }}"
-
       - name: 📓 Create Changelog
         run: |
           echo "# Changelog" > ./CHANGELOG.md
@@ -88,6 +72,22 @@ jobs:
           cd $GITHUB_WORKSPACE
           git add .
           git commit -m "auto: 📈 Generated csv ${{ steps.time.outputs.time }}"
+
+      # Runs a single command using the runners shell
+      - name: 📓 Create Readmes
+        uses: DaanV2/Markdown-Action-Create-Indexes@v4.0.0
+        with:
+          folder: ${{github.workspace}}
+          filename: README.md
+
+      - name: 📖 Commit changes
+        continue-on-error: true
+        run: |
+          cd $GITHUB_WORKSPACE
+          git config --global user.email "github-action@github.com"
+          git config --global user.name "github-action"
+          git add .
+          git commit -m "auto: 📓 Generated Readme ${{ steps.time.outputs.time }}"
 
       - name: 🚚 Push
         continue-on-error: true
