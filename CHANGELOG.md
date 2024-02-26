@@ -1,4 +1,5 @@
 # Changelog
+* 2024-02-26 - Adding datastructures and algorithms
 * 2024-01-29 - Updating computer science with more I have learned
 * 2024-01-29 - Removing api security because its a checklist
 * 2024-01-29 - Updatin nodejs
