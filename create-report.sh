@@ -77,5 +77,7 @@ echo "![total](https://img.shields.io/badge/total-$total_clickable_group_done%2F
 echo "Total Clickable Group: $total_clickable_group/$total_clickable_group"
 echo "Total Clickable Group Done: $total_clickable_group_done/$total_clickable_group_done"
 
+
 echo "done=$total_clickable_group_done" >> "$GITHUB_OUTPUT"
 echo "total=$total_clickable_group" >> "$GITHUB_OUTPUT"
+echo "percentage=$total_percentage" >> "$GITHUB_OUTPUT"

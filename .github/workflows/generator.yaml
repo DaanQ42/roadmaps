@@ -64,7 +64,7 @@ jobs:
 
       - name: 📈 Writing csv
         run: |
-          echo "${{ steps.time.outputs.time }},${{ steps.badge.outputs.done }},${{ steps.badge.outputs.total }}" >> ./progress.csv
+          echo "${{ steps.time.outputs.time }},${{ steps.badge.outputs.done }},${{ steps.badge.outputs.total }},${{ steps.badge.outputs.percentage }}" >> ./progress.csv
 
       - name: 📖 Commit csv
         continue-on-error: true
