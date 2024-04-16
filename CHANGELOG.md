@@ -1,4 +1,6 @@
 # Changelog
+* 2024-04-16 - Adding update SQL
+* 2024-04-16 - updated game-developer
 * 2024-02-26 - Updating game-developer server side with new knowlegde
 * 2024-02-26 - Adding percentage
 * 2024-02-26 - Moving generate markdown to last
@@ -36,4 +38,3 @@
 * 2023-06-27 - Updating kubernetes knowlegde
 * 2023-06-22 - Ticking of http / https
 * 2023-06-08 - Updated to new relevant knowlegde
-* 2023-06-08 - Updated node.js

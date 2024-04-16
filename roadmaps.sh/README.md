@@ -19,6 +19,7 @@
 - [javascript](javascript.md)
 - [kubernetes](kubernetes.md)
 - [nodejs](nodejs.md)
+- [postgress-sql](postgress-sql.md)
 - [rust](rust.md)
 - [software-architect](software-architect.md)
 - [software-design-architecture](software-design-architecture.md)
