@@ -1,4 +1,5 @@
 # Changelog
+* 2024-04-17 - Updating more
 * 2024-04-16 - Adding update SQL
 * 2024-04-16 - updated game-developer
 * 2024-02-26 - Updating game-developer server side with new knowlegde
@@ -37,4 +38,3 @@
 * 2023-06-27 - Updating devops roadmap
 * 2023-06-27 - Updating kubernetes knowlegde
 * 2023-06-22 - Ticking of http / https
-* 2023-06-08 - Updated to new relevant knowlegde
