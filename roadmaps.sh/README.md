@@ -5,6 +5,7 @@
 
 
 ## Documents
+- [api-design](api-design.md)
 - [backend-developer](backend-developer.md)
 - [c++](c++.md)
 - [computer-science](computer-science.md)
@@ -18,6 +19,7 @@
 - [go-developer](go-developer.md)
 - [javascript](javascript.md)
 - [kubernetes](kubernetes.md)
+- [linux](linux.md)
 - [nodejs](nodejs.md)
 - [postgress-sql](postgress-sql.md)
 - [rust](rust.md)
