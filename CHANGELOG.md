@@ -1,4 +1,5 @@
 # Changelog
+* 2024-09-02 - updated backened-developer
 * 2024-09-02 - Updated devops
 * 2024-07-23 - Updating roadmaps to latest status
 * 2024-04-17 - Updating more
