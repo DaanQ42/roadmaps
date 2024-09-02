@@ -1,4 +1,5 @@
 # Changelog
+* 2024-09-02 - Updated devops
 * 2024-07-23 - Updating roadmaps to latest status
 * 2024-04-17 - Updating more
 * 2024-04-16 - Adding update SQL
@@ -38,4 +39,3 @@
 * 2023-08-02 - Ticking off what I have learned since last time
 * 2023-06-27 - Updating devops roadmap
 * 2023-06-27 - Updating kubernetes knowlegde
-* 2023-06-22 - Ticking of http / https
